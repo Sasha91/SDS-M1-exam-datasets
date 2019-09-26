@@ -10,3 +10,9 @@ We delved into questions such as:
 - Can we predict the outcome of a pokemon battle, based on the features of the pokemons that are fighting?
 
 These questions, and more, is answered in the colab link along with the stakeholer report
+
+## How to run the project
+- Use the colab link: https://colab.research.google.com/drive/19fjGJf8OXYKaJ8nDXcZuawbSNVvWd6Dq
+- Press Runtime -> Run all
+
+The project is structured sequentially and with an external reference to the dataset, so no further steps are required in order to run the project. Enjoy!
